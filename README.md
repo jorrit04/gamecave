@@ -9,4 +9,4 @@
 </ul>
 
 <h3>Screenshot of the website</h3>
-<img width="50%" height="auto" src="demo.png">
+<img src="demo.png">
