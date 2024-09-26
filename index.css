@@ -83,6 +83,7 @@
 h1 {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
 }
 
   * {box-sizing:border-box}
@@ -188,5 +189,5 @@ h1 {
     cursor: pointer;
     position: relative;
     top: 0;
-    margin-top: 0%;
+    margin-left: auto;
   }
